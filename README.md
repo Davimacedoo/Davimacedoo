@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="hero"/>
+<img width="900" height="170" alt="gogogo" src="https://github.com/user-attachments/assets/8fce1280-8c06-4e61-92f4-42bc5cb7c04e" />
+
 
 <img src="./assets/gogogo.png" width="100%" alt="ゴゴゴゴゴ"/>
 
@@ -90,6 +91,7 @@ Fora do código: **[anime, jogos, música...]**.
 
 <br>
 
-<img src="./assets/tobecontinued.png" width="100%" alt="つづく - To Be Continued"/>
+<img width="900" height="190" alt="tobecontinued" src="https://github.com/user-attachments/assets/a6e93992-b17a-4ae5-aee7-7b9fb569c6c7" />
+
 
 </div>
