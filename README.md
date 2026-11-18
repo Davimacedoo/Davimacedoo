@@ -38,9 +38,9 @@ Fora do código: **[anime, jogos, música...]**.
 </tr>
 </table>
 
-<br>
+<img width="70" height="70" alt="10805" src="https://github.com/user-attachments/assets/95b7857d-0293-4ddb-a910-4d31622a563b" />
 
-<img src="./assets/dodododo.png" width="100%" alt="ドドドドド"/>
+
 
 ## ◻ Arsenal
 
