@@ -88,7 +88,8 @@ Fora do código: **[anime, jogos, música...]**.
 
 <br>
 
-![Uploading image.png…]()
+<img width="900" height="190" alt="image" src="https://github.com/user-attachments/assets/89871fa6-bd40-4da6-89e6-08e55c784219" />
+
 
 
 
