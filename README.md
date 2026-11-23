@@ -5,17 +5,17 @@
 
 <img src="./assets/gogogo.png" width="100%" alt="ゴゴゴゴゴ"/>
 
-**SEU NOME**
+**DAVI MACEDO**
 
 `Desenvolvedor Front-end`
 
-<sub>「 Um bom código, como uma boa alfaiataria, não precisa gritar. 」</sub>
+<sub>「 frase 」</sub>
 
 </div>
 
 <br>
 
-## ◼ Sobre
+## ● Sobre
 
 <table>
 <tr>
@@ -32,32 +32,29 @@ Fora do código: **[anime, jogos, música...]**.
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/about.png" width="220" alt="about"/>
+<img width="387" height="516" alt="image" src="https://github.com/user-attachments/assets/f44a6376-7426-4fc6-8778-8f1b588fcad3" />
 
 </td>
 </tr>
 </table>
 
-<img width="70" height="70" alt="10805" src="https://github.com/user-attachments/assets/95b7857d-0293-4ddb-a910-4d31622a563b" />
+[<img width="70" height="70" alt="10805" src="https://github.com/user-attachments/assets/95b7857d-0293-4ddb-a910-4d31622a563b" />](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F899312619347980216%2F&ved=0CBcQjRxqFwoTCLDupfeJnpgDFQAAAAAdAAAAABA5&opi=89978449)
 
 
 
-## ◻ Arsenal
+## ● Arsenal
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djE0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWNSIvPjxwYXRoIGQ9Ik00IDEyYzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTMiLz48L3N2Zz4=&logoColor=white)
 
 </div>
 
 <br>
 
-## ◼ Projetos
+## ● Projetos
 
 | Projeto | Descrição | Stack |
 |:--|:--|:--|
@@ -69,7 +66,7 @@ Fora do código: **[anime, jogos, música...]**.
 
 <img src="./assets/zugyuun.png" width="100%" alt="ズギュウウン"/>
 
-## ◻ Atividade
+## ● Atividade
 
 <div align="center">
 
@@ -81,7 +78,7 @@ Fora do código: **[anime, jogos, música...]**.
 
 <br>
 
-## ◼ Contato
+## ● Contato
 
 <div align="center">
 
@@ -91,7 +88,8 @@ Fora do código: **[anime, jogos, música...]**.
 
 <br>
 
-<img width="900" height="190" alt="tobecontinued" src="https://github.com/user-attachments/assets/a6e93992-b17a-4ae5-aee7-7b9fb569c6c7" />
+![Uploading image.png…]()
+
 
 
 </div>
