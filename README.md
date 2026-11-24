@@ -67,7 +67,7 @@ Fora do código: **[anime, jogos, música...]**.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=000000)](https://linkedin.com/in/SEU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=000000)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=000000)](mailto:davimacedo13@outlook.com)
 
 <br>
 <img src="assets/images/banner2.png" alt="Banner"  style="width:100%; height:auto"/>
