@@ -36,7 +36,7 @@ Fora do código: **[anime, jogos, música...]**.
 </table>
 
 <div align="left">
-<img src="./assets/images/onomatopeia.png" width=100px alt=Onomatopeia"/>
+<img src="./assets/images/onomatopeia.png" width=70px alt=Onomatopeia"/>
 
 ## ● Arsenal
 
