@@ -70,6 +70,6 @@ Fora do código: **[anime, jogos, música...]**.
 [![Email](https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=000000)](mailto:davimacedo13@outlook.com)
 
 <br>
-<img src="assets/images/banner2.png" alt="Banner"  style="width:100%; height:auto"/>
+<img src="assets/images/TBC.png" alt="Banner"  style="width:100%; height:auto"/>
 
 </div>
