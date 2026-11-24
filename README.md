@@ -54,9 +54,9 @@ Fora do código: **[anime, jogos, música...]**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&hide_title=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Davimacedoo&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&hide_title=true" width="100%"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&border_radius=0&hide_rank=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Davimacedooo&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&border_radius=0&hide_rank=true"/>
 
 </div>
 
