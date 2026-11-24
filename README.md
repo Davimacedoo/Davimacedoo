@@ -18,13 +18,11 @@
 <tr>
 <td width="62%" valign="top">
 
-Estudante de **[sua área]**, focado em interfaces limpas e código bem escrito.
+Systems Analysis and Development student, focused on clean interfaces and well-written code.
 
-Atualmente construindo **[projeto]** e estudando **[tecnologia]**.
+I'm now setting my sights on **cloud computing**, and I want to learn how to build, deploy and scale applications in the cloud.
 
-Meu objetivo é simples: escrever código claro, criar produtos que funcionem e continuar evoluindo.
-
-Fora do código: **[anime, jogos, música...]**.
+My goal is simple: write clear code, build products that work, and keep growing.
 
 </td>
 <td width="38%" align="center" valign="middle">
