@@ -6,8 +6,6 @@
 
 **DAVI MACEDO**
 
-<sub>「 frase 」</sub>
-
 </div>
 
 <br>
