@@ -1,13 +1,10 @@
 <div align="center">
 
-<img width="900" height="170" alt="gogogo" src="https://github.com/user-attachments/assets/8fce1280-8c06-4e61-92f4-42bc5cb7c04e" />
+<img src="assets/images/banner1.png" alt="Banner"  style="width:100%; height:auto"/>
 
 
-<img src="./assets/gogogo.png" width="100%" alt="ゴゴゴゴゴ"/>
 
 **DAVI MACEDO**
-
-`Desenvolvedor Front-end`
 
 <sub>「 frase 」</sub>
 
@@ -38,9 +35,7 @@ Fora do código: **[anime, jogos, música...]**.
 </tr>
 </table>
 
-[<img width="70" height="70" alt="10805" src="https://github.com/user-attachments/assets/95b7857d-0293-4ddb-a910-4d31622a563b" />](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F899312619347980216%2F&ved=0CBcQjRxqFwoTCLDupfeJnpgDFQAAAAAdAAAAABA5&opi=89978449)
-
-
+<img src="./assets/images/onomatopeia.png" width=100px align="left">
 
 ## ● Arsenal
 
@@ -53,18 +48,6 @@ Fora do código: **[anime, jogos, música...]**.
 </div>
 
 <br>
-
-## ● Projetos
-
-| Projeto | Descrição | Stack |
-|:--|:--|:--|
-| **[Projeto 1](link)** | Uma linha dizendo o que faz. | `React` `CSS` |
-| **[Projeto 2](link)** | Uma linha dizendo o que faz. | `JavaScript` |
-| **[Projeto 3](link)** | Uma linha dizendo o que faz. | `HTML` `CSS` |
-
-<br>
-
-<img src="./assets/zugyuun.png" width="100%" alt="ズギュウウン"/>
 
 ## ● Atividade
 
@@ -84,13 +67,8 @@ Fora do código: **[anime, jogos, música...]**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=000000)](https://linkedin.com/in/SEU_USUARIO)
 [![Email](https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=000000)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-FFFFFF?style=flat-square&logo=safari&logoColor=000000)](https://seusite.com)
 
 <br>
-
-<img width="900" height="190" alt="image" src="https://github.com/user-attachments/assets/89871fa6-bd40-4da6-89e6-08e55c784219" />
-
-
-
+<img src="assets/images/banner2.png" alt="Banner"  style="width:100%; height:auto"/>
 
 </div>
