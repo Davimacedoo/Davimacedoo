@@ -20,7 +20,7 @@ Systems Analysis and Development student, focused on clean interfaces and well-w
 
 I'm now setting my sights on **cloud computing**, and I want to learn how to build, deploy and scale applications in the cloud.
 
-My goal is simple: write clear code, build products that work, and keep growing.
+My goal is to write clear code, build products that work, and keep growing.
 
 </td>
 <td width="38%" align="center" valign="middle">
